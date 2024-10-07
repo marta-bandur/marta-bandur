@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **my graduate course in Data Science**
+- 🌱 I’m currently learning
+  - 🏗️ **data science basics**,
+  - 💻 **Python and R for data science**,
+  - 📊 **data visualization**,
+  - 〰️ **signal processing**,
+  - 🧮 **statistics**
+- ⚡ Fun fact: I'm also learning Spanish 😄
